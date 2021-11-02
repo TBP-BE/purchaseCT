@@ -27,7 +27,9 @@ The running example can be found in:
 -to run application on belahalf of the Tourist (Alice) organization, run the following command lines:
 
  > cd organization/Tourist/application
+ 
  > node addToWallet.js
+ 
  > node buy.js
  
  
