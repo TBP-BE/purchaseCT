@@ -6,7 +6,7 @@ the smart contracts can be found at SmartContracts/Fabric/Interaction
 
 The running example can be found in:
 
-![Running Example](motivating_scenario_v2.png)
+![Running Example](running_example.png)
 
 ## Fabric network installation guidelines
 
