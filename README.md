@@ -2,7 +2,7 @@
 
 ## Smart Contracts source code
 
-the smart contracts can be found at SmartContracts/Fabric/Interaction 
+the smart contracts can be found at SmartContracts/Fabric/InteractionSC/ 
 
 The running example can be found in:
 
