@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itinerary>
+    <days>
+        <etapes>
+            <periode>
+                <DebutPeriode>2018-06-17T12:00</DebutPeriode>
+                <FinPeriode>2018-06-17T14:00</FinPeriode>
+            </periode>
+            <poi id="PCU41AASOR100039">
+                <Name>Chateau de Tours</Name>
+                <Position>
+                <Latitude>47.22</Latitude>
+                <Longitude>0.40</Longitude>
+                <Adresse>25 Avenue Andre Malraux, 37000 Tours, France</Adresse>
+                </Position>
+                <Type>Point of Interest</Type>
+                <Style>Medieval</Style>
+        </etapes>
+        <etapes>
+            <periode>
+                <DebutPeriode>2018-06-17T14:00</DebutPeriode>
+                <FinPeriode>2018-06-17T15:00</FinPeriode>
+            </periode>
+            <poi id="RES41AASOR100341">
+                <Name>Restaurant les Canailles</Name>
+                <Position>
+                <Latitude>47.39</Latitude>
+                <Longitude>0.69</Longitude>
+                <Adresse> 123 Rue Colbert, 37000 Tours, France</Adresse>
+                </Position>
+                <Type>Restaurant</Type>
+                <Style>GourmetCuisine</Style>
+        </etapes>
+</days>
+</itinerary>
